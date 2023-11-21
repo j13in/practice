@@ -4,7 +4,7 @@ int main()
 {
 	int i, j, k;
 	int N = 7;
-	int array[] = { 1,7,8,3,9,2,4 };
+	int array[] = { 5, 3, 1, 2, 5, 6, 9 };
 
 	for (i = 0; i < N - 1; i++)
 	{
